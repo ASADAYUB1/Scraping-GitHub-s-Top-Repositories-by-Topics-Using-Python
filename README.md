@@ -1,2 +1,2 @@
-# Scraping-GitHub-s-Top-Repositories-by-Topics-Using-Python
-This repository comprises Jupyter files that demonstrate the implementation of web scraping in Python using Beautiful Soup . It includes essential HTML files and the resulting CSV files, providing comprehensive resources for understanding and practicing web scraping techniques. 
+# Scraping GitHubs Top Repositories by Topics Using Python
+This repository comprises Jupyter files that demonstrate the implementation of web scraping in Python using Beautiful Soup. It includes essential HTML files and the resulting CSV files, providing comprehensive resources for understanding and practicing web scraping techniques. In this project, I will retrieve information from the https://github.com/topics page using web scraping: the process of extracting information from a website in an automative fashion using code. I will use the Python libraries Requests and Beautiful Soup to scrape data from this page. 
